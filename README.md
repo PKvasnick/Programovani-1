@@ -18,6 +18,6 @@ Peter Kvasnička, ÚČJF MFF UK, peter.kvasnicka@mff.cuni.cz, +420 605 386 052
 
 Linky na materiály k jednotlivým cvičením:
 
-[1. cvičení 29,30-9-2021](https://hackmd.io/DggibKPbRz-y-3ZMXub6Ew)
+[1. cvičení 29,30-9-2021](https://github.com/PKvasnick/Programovani-1/blob/a3652e3d48bc029ee61ae590ea091ea0dace8666/lecture_notes/cviceni_1_2021-09-29.md)
 
 [2. cvičení 6,7-10-2021](https://hackmd.io/n8a5nXXsTZGUu-VJtkY4XA)
