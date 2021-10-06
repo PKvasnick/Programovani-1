@@ -8,10 +8,10 @@ Peter Kvasnička, ÚČJF MFF UK, peter.kvasnicka@mff.cuni.cz, +420 605 386 052
 
 
 
-| Termín | Místnost | Skupina |
-| -------- | -------- | -------- |
-| Středa 15:40 - 17:10 | N10 | 54 |
-| Čtvrtek 14:00 - 15:30 | N08 | 55 |
+| Termín | Místnost |
+| -------- | -------- | 
+| Středa 15:40 - 17:10 | N10 | 
+| Čtvrtek 14:00 - 15:30 | N08 |
 
 
 
