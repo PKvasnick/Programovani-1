@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 code/Ex_2/zkus.py
+code/Ex_3/zk_tot.py
+code/Ex_3/fib_zkus.py
