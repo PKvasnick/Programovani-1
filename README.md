@@ -22,4 +22,9 @@ Linky na materiály k jednotlivým cvičením:
 
 [2. cvičení 6,7-10-2021](https://github.com/PKvasnick/Programovani-1/blob/e51a60af4efad2a55d6353c6c6b52e06df819367/lecture_notes/cviceni_2_2021-10-06.md)
 
-[2. cvičení 13,14-10-2021](https://github.com/PKvasnick/Programovani-1/blob/main/lecture_notes/cviceni_3_2021-10-13.md)
+[3. cvičení 13,14-10-2021](https://github.com/PKvasnick/Programovani-1/blob/main/lecture_notes/cviceni_3_2021-10-13.md)
+
+[4. cvičení 20,21-10-2021](https://github.com/PKvasnick/Programovani-1/blob/main/lecture_notes/cviceni_4_2021-10-20.md)
+
+[5. cvičení 27-10-2021](https://github.com/PKvasnick/Programovani-1/blob/main/lecture_notes/cviceni_5_2021-10-27.md)
+
