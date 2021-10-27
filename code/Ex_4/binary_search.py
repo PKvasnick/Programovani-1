@@ -10,6 +10,7 @@ p = len(kde) - 1
 
 while l <= p:
     stred = (l+p) // 2
+    print("---> ", l,stred, p)
     if kde[stred] == co:   # Našli jsme
         print("Hodnota ", co, " nalezena na pozici", stred)
         break
