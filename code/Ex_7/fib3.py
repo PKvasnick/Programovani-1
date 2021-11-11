@@ -1,6 +1,6 @@
 # Momoised Fibonacci
 
-def memoise_fib(f):
+def memoize(f):
     values = [0,1]
     fibs = [0,1]
     def inner(n):
@@ -13,7 +13,7 @@ def memoise_fib(f):
             return result
     return inner
 
-@memoise_fib
+@memoize
 def fib(n):
     if n < 2:
         return n
