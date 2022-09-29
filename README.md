@@ -18,3 +18,4 @@ Peter Kvasnička, ÚČJF MFF UK, peter.kvasnicka@mff.cuni.cz, +420 605 386 052
 
 Materiály ke cvičení:
 
+https://github.com/PKvasnick/Programovani-1
