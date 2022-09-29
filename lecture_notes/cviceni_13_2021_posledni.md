@@ -75,6 +75,7 @@ Potkali jsme
 - `operator` - funkce, implementující operátory
 - `collections` - `defaultdict`, ale také třeba `deque`, `Counter` a další užitečné datové kontejnery.
 - `itertools` - permutace a kombinace.
+- `functools` - `lru_cache`, `reduce`
 
 ### Knihovna random
 
