@@ -1,16 +1,20 @@
-# Programování 1 pro matematiky, podzim 2024
+# Programování 1 pro matematiky, podzim 2025
 
 
 
-Vyučující:
+**Vyučující:**
 
-Peter Kvasnička, ÚČJF MFF UK, peter.kvasnicka@matfyz.cuni.cz, +420 605 386 052
+🪪 Peter Kvasnička, ÚČJF MFF UK 
+
+✉️peter.kvasnicka@matfyz.cuni.cz, 
+
+☎️+420 605 386 052
 
 
 
 | Termín | Místnost |
 | -------- | -------- |
-| Úterý 12:20 - 14:00 | N8 |
+| Úterý 9:00 - 10:30 | N11 |
 
 
 
